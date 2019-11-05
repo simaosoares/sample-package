@@ -1,0 +1,13 @@
+{
+  "name": "sample-package",
+  "version": "1.0.0",
+  "description": "Sample package for bower and npm demo proposes",
+  "license": "MIT",
+  "main": "sample-package.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/simaosoares/sample-package.git"
+  },
+  "ignore": [],
+  "dependencies": {}
+}
